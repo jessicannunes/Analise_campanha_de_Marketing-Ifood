@@ -63,3 +63,25 @@ Reclamações.
 
 ## Passo 5: Hipóteses Analíticas
 Fato (Medida) + Dimensão (Detalhes) + Comparação
+
+As hipóteses analíticas são construídas a partir da combinação do fato com as dimensões, usando sempre uma valor de comparação como maior, menor ou igual
+
+Fato + Dimensão: Cliente e Idade.
+
+O faturamento dos clientes abaixo de 30 anos é maior do que nas outra faixas etárias.
+O faturamento dos clientes entre 20 e 30 anos é maior do que nas outras faixas etárias.
+O faturamento dos clientes acima dos 30 anos é maior do que nas outras faixas.
+
+Fato + Dimensão: Cliente e Estado Civil
+
+Clientes solteiros gastam mais do que os outros segmentos de clientes.
+Clientes solteiros gastam menos do que os outros segmentos de clientes.
+Clientes casados gastam mais do que os outros segmentos de clientes.
+
+Fato + Dimensão: Cliente - Estado Civil e Idade
+
+Clientes solteiros acima dos 30 anos gastam mais do clientes casados acima dos 30 anos.
+Fato + Dimensão: Cliente e Formação Profissional
+
+8. Clientes com formações avançadas (Doutora) gastam mais do que clientes com Ensino Fundamental
+9. Clientes com maiores salários tem nível escolaridade maior.
