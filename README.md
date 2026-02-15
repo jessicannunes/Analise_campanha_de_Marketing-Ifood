@@ -98,17 +98,16 @@ Critério 2: Insights Acionáveis
 
 ## Insights da análise
 ## Resultados
-Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
-
-O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
-
-Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimentos nos outros segmentos, especialmente o mencionado.
+- Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
+- O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
+- O produto Carnes possuí o maior faturamento médio, R$ 565 reais por compra. Além disso, existe uma correlação positiva entre os produtos Vinhos e Carnes com os maiores faturamento médio.
+- Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimentos nos outros segmentos, especialmente o mencionado.
 
 ## Visualize a Análise Completa
 https://lookerstudio.google.com/reporting/62f4bf15-8a99-46e6-9056-596d8a982490/page/Xb8nF
 
 ## Próximos passos
-1 .Explorar mais características dos clientes
+1. Explorar mais características dos clientes.
 2. Automatizar a coleta e a análise para acompanhamento.
 3. Agrupar os clientes em grupos de maior e menor faturamento para entender se há similiridades ou não.
 4. Montar um dashboard de acompanhamento das métricas das futuras campanhas de marketing
