@@ -64,7 +64,6 @@ As colunas foram agrupadas em dimensões comuns que fornecem mais detalhes sobre
 Fato (Medida) + Dimensão (Detalhes) + Comparação
 
 As hipóteses analíticas são construídas a partir da combinação do fato com as dimensões, usando sempre uma valor de comparação como maior, menor ou igual
-
 Fato + Dimensão: Cliente e Idade.
 
 1. O faturamento dos clientes abaixo de 30 anos é maior do que nas outra faixas etárias.
@@ -73,9 +72,9 @@ Fato + Dimensão: Cliente e Idade.
 
 Fato + Dimensão: Cliente e Estado Civil
 
-4. Clientes solteiros gastam mais do que os outros segmentos de clientes.
-5. Clientes solteiros gastam menos do que os outros segmentos de clientes.
-6. Clientes casados gastam mais do que os outros segmentos de clientes.
+5. Clientes solteiros gastam mais do que os outros segmentos de clientes.
+6. Clientes solteiros gastam menos do que os outros segmentos de clientes.
+7. Clientes casados gastam mais do que os outros segmentos de clientes.
 
 Fato + Dimensão: Cliente - Estado Civil e Idade
 
